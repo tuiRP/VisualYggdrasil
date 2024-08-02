@@ -1,3 +1,6 @@
+This is an app to facilitate start and stop of Yggdrasi-network in Windows
+
+
 Open as administrator
 
 Don't forget to set yggdrasil.conf before running this program
