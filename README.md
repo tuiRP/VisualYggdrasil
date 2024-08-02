@@ -1,4 +1,4 @@
-This is an app to facilitate start and stop of Yggdrasi-network in Windows
+This is an app to facilitate start and stop of Yggdrasil-network in Windows
 
 
 Open as administrator
